@@ -1,5 +1,5 @@
 # docker compose 
-nginx + phpmyadmin + mariadb
+nginx (reverse proxy) + phpmyadmin + mariadb
 
 
 11111111
